@@ -1,2 +1,2 @@
 # networking
-UDP/TCP/Etc.
+Quick templates for UDP/TCP/Etc.
